@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS database automocion;
+CREATE DATABASE IF NOT EXISTS database automocion;
 
 CREATE TABLE usuarios (
  id INT PRIMARY KEY AUTO_INCREMENT,
